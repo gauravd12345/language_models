@@ -1,5 +1,5 @@
 ## Language Models
-For a Language Model(LM) to successfully capture the semantic meaning of some text, it is essential that it can capture the <b>context</b> of the words that came before.
+For a Language Model (LM) to successfully capture the semantic meaning of some text, it is essential that it can capture the <b>context</b> of the words that came before.
 The idea of modeling the probability of the next word in a sequence based on the words that came before is one of the most popular ideas in modern NLP. For instance, the word <b>rock</b> in 
 the two sentences, "The man found a <b>rock</b>." and "The boy was listening to <b>rock</b> music." has two clearly, distinct meanings because of the surrounding context.  
 In the following sections, various LM architectures are discussed.  
